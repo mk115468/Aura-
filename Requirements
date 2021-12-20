@@ -4,12 +4,14 @@ Phase 1
 • Shall set-up the Raspberry Pi and configure it for the project 
   -Done in class already
 
-• Shall demonstrate basic understanding of Python coding o Create simple unit conversion program
-  -Converted kilometers to miles, pounds to kilograms and farhenheit to celcius.
+• Shall demonstrate basic understanding of Python coding
+  o Create simple unit conversion program
+     -Converted kilometers to miles, pounds to kilograms and farhenheit to celcius.
 
-• Shall demonstrate basic understanding of Raspberry Pi I/O o Configure LED on breadboard 
- -Blink LED every .5 seconds
- -The LED color will be green.
+• Shall demonstrate basic understanding of Raspberry Pi I/O 
+  o Configure LED on breadboard 
+    -Blink LED every .5 seconds
+    -The LED color will be green.
  
 • Shall demonstrate basic understanding of Pygame 
   o Add a random rectangle to the center of the game screen 
